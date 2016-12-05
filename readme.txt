@@ -5,8 +5,6 @@ Creating a new branch is quick and simple.
 >>>>>>> feature1
 add branch
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 add isuue01
-=======
-insert new line
->>>>>>> Stashed changes
 
